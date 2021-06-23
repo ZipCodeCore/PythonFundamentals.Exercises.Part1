@@ -1,7 +1,7 @@
 # Part 1 
 
 ## Accompanying resources
-* Slide deck: https://zipcoder.github.io/reveal-slides.data-engineering/zcw_content/python/fundamentals-part1.html
+* Slide deck: https://zipcoder.github.io/curriculum-assets/lectures/python/types-operators-strings-comments/
 * Metric Conversion charts: https://www.metric-conversions.org/
 
 ## Exercise 1
